@@ -137,19 +137,23 @@ ng serve
 ## 📱 Screenshots
 
 ### 🏠 Página Inicial
-![Página Inicial](img/image1.png)
+![Página Inicial](img/image4.png)
 *Tela de boas-vindas com navegação para login e registro*
 
 ### 🔐 Página de Login
-![Página de Login](img/image2.png)
+![Página de Login](img/image.png)
 *Interface de login com design moderno e responsivo*
 
 ### 📝 Página de Registro
-![Página de Registro](img/image3.png)
+![Página de Registro](img/image1.png)
 *Formulário de cadastro com seleção de perfil*
 
-### 🎯 Dashboard com Menu
-![Dashboard](img/image4.png)
+### 🎯 Dashboard com Menu de Usuário
+![Dashboard](img/image3.png)
+*Interface principal com menu global e sistema de alertas*
+
+### 🎯 Dashboard com Menu de Amnistrador
+![Dashboard](img/image2.png)
 *Interface principal com menu global e sistema de alertas*
 
 ---
