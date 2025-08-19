@@ -340,5 +340,3 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/sistema-jwt?style=social)](https://github.com/seu-usuario/sistema-jwt)
 
 </div>
-#   s i t e - j w t  
- 
